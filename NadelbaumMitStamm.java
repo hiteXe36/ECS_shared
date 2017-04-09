@@ -17,6 +17,7 @@ public class NadelbaumMitStamm{
 			for(int j = 0; j < hoehe - 1 - i; j++)
 			{
 				System.out.print(".");
+				System.out.println("HalloWelt");
 			}
 			//Schleife für das Baumdetail
 			for(int k = 0; k < anzahlZeichen; k++)
