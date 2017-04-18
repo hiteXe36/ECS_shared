@@ -1,7 +1,7 @@
 /**
  * Eine CD ist ein Medium. Zusätzlich zu den Eigenschaften eines Mediums erfasst
  * sie Informationen zu Spiellänge und Interpret.
- * 
+ * Kommentar hinzegefügt für GIT HUB
  * @author SE2-Team, PM2-Team
  * @version SoSe 2017
  */
