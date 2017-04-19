@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * Diese Klasse dient dazu, zu testen, ob in Eclipse die Assertions aktiviert
  * sind.
- * KOMMENTAR VADIM 2
+ * KOMMENTAR VADIM 2s
  * @author SE2-Team, PM2-Team
  * @version SoSe 2017
  */
