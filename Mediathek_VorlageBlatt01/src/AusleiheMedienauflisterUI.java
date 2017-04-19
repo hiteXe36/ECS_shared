@@ -25,6 +25,7 @@ class AusleiheMedienauflisterUI
 
     /**
      * Initialisiert eine neue AusleiheMedienauflisterUI.
+     * Hallo Paul
      */
     public AusleiheMedienauflisterUI()
     {
